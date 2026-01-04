@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夏の思い出",
+  "base_artist": "ケツメイシ",
+  "createdAt": "2026-01-04T04:16:30.940846Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏の思い出",
+      "artist": "Hanafugetsu",
+      "has_synced": false,
+      "path": "select/01_夏の思い出_Hanafugetsu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏の思い出",
+      "artist": "島谷ひとみ",
+      "has_synced": false,
+      "path": "select/02_夏の思い出_島谷ひとみ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏の思い出",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/pl_01_夏の思い出_ケツメイシ.txt"
+    }
+  ]
+}
